@@ -1,6 +1,6 @@
 """
 This bot was made originally by xYarin for Guild4 Discord server to synchronize from guild members to server members automatically.
-** All commnented code are commands that currently aren't in use. **
+** All commented code are commands that currently aren't in use. **
 
 If you want to use it for your guild, add the bot with https://discord.com/oauth2/authorize?client_id=748897861952864268&scope=bot&permissions=8,
 get your own hypixel API key with /api new in mc.hypixel.net, change the code from Guild4 to your guild name when the code says g =,
